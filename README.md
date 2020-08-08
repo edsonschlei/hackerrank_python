@@ -17,3 +17,9 @@ This project contains my solutions for the problems using python3.
 [Solution](py_if_else/py_if_else.py)
 
 [Test](py_if_else/py_if_else_test.py)
+
+# Python: Division
+
+[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)
+
+[Solution](python_division/python_division.py)
