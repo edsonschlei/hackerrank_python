@@ -23,3 +23,9 @@ This project contains my solutions for the problems using python3.
 [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)
 
 [Solution](python_division/python_division.py)
+
+# Loops
+
+[Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+
+[Solution](python_loops/python_loops.py)
